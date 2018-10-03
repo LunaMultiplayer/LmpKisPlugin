@@ -53,7 +53,7 @@ after_build:
  - ps: mkdir "$env:appveyor_build_folder\FinalFiles\$env:configuration\LmpKisPlugin\GameData\LunaMultiplayer\Plugins"
  - ps: mkdir "$env:appveyor_build_folder\FinalFiles\$env:configuration\LmpKisPlugin\GameData\LunaMultiplayer\PartSync"
  - ps: xcopy /y "$env:appveyor_build_folder\LmpKisPlugin\bin\$env:configuration\LmpKisPlugin.*" "$env:appveyor_build_folder\FinalFiles\$env:configuration\LmpKisPlugin\GameData\LunaMultiplayer\Plugins"
- - ps: xcopy /y /s "$env:appveyor_build_folder\LmpKisPlugin\XML\*.*" "$env:appveyor_build_folder\FinalFiles\$env:configuration\LMPClient\LmpKisPlugin\GameData\LunaMultiplayer\PartSync"
+ - ps: xcopy /y /s "$env:appveyor_build_folder\LmpKisPlugin\XML\*.*" "$env:appveyor_build_folder\FinalFiles\$env:configuration\LmpKisPlugin\GameData\LunaMultiplayer\PartSync"
  #7zip everything
  - ps: 7z a "$env:appveyor_build_folder\LmpKisPlugin-$env:configuration.zip" "$env:appveyor_build_folder\FinalFiles\$env:configuration\LmpKisPlugin" 
 #---------------------------------#
