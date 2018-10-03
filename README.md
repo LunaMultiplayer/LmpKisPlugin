@@ -7,7 +7,7 @@
 
 ---
 
-## Luna Multiplayer Mod (LMP) - Kerbal Inventory System (KIS) Plugin
+## [Luna Multiplayer Mod (LMP)](../../../LunaMultiplayer) - [Kerbal Inventory System (KIS)](../../../../ihsoft/KIS) Plugin
 
 *Plugin to make KIS work with LMP*
 
