@@ -18,7 +18,7 @@
 | **master** |[![AppVeyor](https://img.shields.io/appveyor/ci/gavazquez/lmpkisplugin/master.svg?style=flat&logo=appveyor)](https://ci.appveyor.com/project/gavazquez/lmpkisplugin/branch/master) | [![Last commit](https://img.shields.io/github/last-commit/lunamultiplayer/lmpkisplugin/master.svg?style=flat&logo=github&logoColor=white)](../../commits/master) | [![Commit activity](https://img.shields.io/github/commit-activity/y/lunamultiplayer/lmpkisplugin.svg?style=flat&logo=github&logoColor=white)](../../commits/master) | [![Commits since release](https://img.shields.io/github/commits-since/lunamultiplayer/lmpkisplugin/latest.svg?style=flat&logo=github&logoColor=white)](../../commits/master)
 
 <p align="center">
-    <a href="https://ci.appveyor.com/project/gavazquez/lunamultiplayer/history"><img src="https://buildstats.info/appveyor/chart/gavazquez/lunamultiplayer?buildCount=100" alt="Build history"/></a>
+    <a href="https://ci.appveyor.com/project/gavazquez/lmpkisplugin/history"><img src="https://buildstats.info/appveyor/chart/gavazquez/lmpkisplugin?buildCount=100" alt="Build history"/></a>
 </p>
 
 ---
