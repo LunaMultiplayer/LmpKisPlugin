@@ -43,6 +43,10 @@
     <Reference Include="LmpClient">
       <HintPath>..\External\Dependencies\LmpClient.dll</HintPath>
     </Reference>
+    <Reference Include="LmpCommon, Version=0.13.50.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\External\Dependencies\LmpCommon.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="UnityEngine">
       <HintPath>..\External\KSPLibraries\UnityEngine.dll</HintPath>
