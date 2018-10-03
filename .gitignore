@@ -1,0 +1,9 @@
+*.user
+*.userprefs
+.vs/
+External/KSPLibraries/*.dll
+External/Nuget/*
+LmpKisPlugin/*.csproj.user
+LmpKisPlugin/bin/*
+LmpKisPlugin/obj/*
+*.nupkg
